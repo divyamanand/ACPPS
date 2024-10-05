@@ -63,11 +63,6 @@ The automated greenhouse system aims to create an optimal environment for plant 
 - Remote adjustment of environmental parameters
 - Alert system for abnormal conditions or system malfunctions
 
-### 3.6 Machine Learning Integration
-- Optimize growing conditions based on historical data and plant performance
-- Predict and prevent potential issues (e.g., disease, pest infestations)
-- Continuous improvement of control algorithms
-
 ## 4. Potential Enhancements
 
 - Integration with weather forecasts for proactive environmental control
