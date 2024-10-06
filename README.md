@@ -66,10 +66,6 @@ The automated greenhouse system aims to create an optimal environment for plant 
 ## 4. Potential Enhancements
 
 - Integration with weather forecasts for proactive environmental control
-- Image processing for plant health monitoring and disease detection
-- Robotic systems for planting, pruning, and harvesting
-- Energy optimization with solar panels and battery storage
-- Water recycling and rainwater harvesting systems
 - Multi-zone control for different plant species or growth stages
 
 ## 5. Challenges and Considerations
